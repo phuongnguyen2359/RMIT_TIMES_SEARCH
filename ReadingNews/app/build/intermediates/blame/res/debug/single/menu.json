@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mac/RMIT/Android/ReadingNews/app/build/intermediates/res/merged/debug/menu/menu_article.xml",
+        "source": "/Users/mac/RMIT/Android/ReadingNews/app/src/main/res/menu/menu_article.xml"
+    },
+    {
+        "merged": "/Users/mac/RMIT/Android/ReadingNews/app/build/intermediates/res/merged/debug/menu/menu_articles.xml",
+        "source": "/Users/mac/RMIT/Android/ReadingNews/app/src/main/res/menu/menu_articles.xml"
+    }
+]
