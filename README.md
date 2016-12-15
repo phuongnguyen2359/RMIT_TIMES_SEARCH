@@ -8,7 +8,6 @@ Background & Overview: The application allows user to search for news. The users
 The following **required** functionality is completed:
 
 - [x] Device is Android-based.
-- [x] Slack integration via RESTful APIs.
 
 The following **required** Device:
 - [x] 6 inches LCD or above.
